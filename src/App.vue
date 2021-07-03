@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img class="logo" alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Nước mắm thượng nguồn"/>
   </div>
 </template>
@@ -24,5 +24,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+.logo {
+  max-width: 250px;
 }
 </style>
