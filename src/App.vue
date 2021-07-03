@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img class="logo" alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Nước mắm thượng nguồn"/>
+    <HelloWorld msg="Nước mắm thượng nguồn"/>
   </div>
 </template>
 
